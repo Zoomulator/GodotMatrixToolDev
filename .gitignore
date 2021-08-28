@@ -1,0 +1,3 @@
+.import/
+# Vim swap files
+.sw[a-z]
